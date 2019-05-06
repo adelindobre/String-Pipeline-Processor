@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\AdelinGDobre\source\repos\StringProcessor\StringProcessor\StringProcSet.h(38): warning C4018: '<': signed/unsigned mismatch
+  StringProcessor.vcxproj -> C:\Users\AdelinGDobre\source\repos\StringProcessor\Debug\StringProcessor.exe
